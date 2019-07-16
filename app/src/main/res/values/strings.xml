@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LearnCode2</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_forum">Forum</string>
+    <string name="nav_setting">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comment">注释/取消注释</string>
+    <string name="api_ref">http://zh.cppreference.com/w/c</string>
+    <string name="oj">https://acm.sjtu.edu.cn/OnlineJudge/problems</string>
+
+    <string name="title">如何找到女朋友</string>
+    <string name="live_title">世间所有的相遇，都是久别重逢</string>
+    <string name="large_text">
+        "假如生活欺骗了你"
+        "假如生活欺骗了你，"
+        "不要悲伤，不要心急！"
+        "忧郁的日子里须要镇静："
+        "相信吧，快乐的日子将会来临！"
+        "心儿永远向往着未来；"
+        "现在却常是忧郁。"
+        "一切都是瞬息，一切都将会过去；"
+        "而那过去了的，就会成为亲切的怀恋。"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="froum_recommend">推荐</string>
+    <string name="forum_algorithm">算法</string>
+    <string name="forum_data_structure">数据结构</string>
+    <string name="forum_C">C语言</string>
+
+    <string name="ajiasha">阿加莎·玛丽·克莱丽莎·克里斯蒂女爵士(1890年9月15日－1976年1月12日），
+        另外又称马洛温爵士夫人，是英国侦探小说作家。玛丽·维斯马科特则是她写浪漫爱情小说所用的笔名。
+据吉尼斯世界纪录统计，阿加莎·克里斯蒂是人类史上最畅销的著书作家。而将所有形式的著作算入，只有圣经与威廉·莎士比亚的著作的总销售量在她之上。
+        至今其著作曾翻译成超过103种语言，总销突破20亿本。[1][2] 在法国，截至2003年，她一共卖出4,000万本法文版的著作，为法国书籍销量纪录保持者，远胜于第二位法国大文豪左拉的2,200万本。
+      </string>
+
+
+    <array name="forum_tab">
+        <item>推荐@dream@0</item>
+        <item>算法@dream@1</item>
+        <item>数据结构@dream@2</item>
+        <item>C@dream@3</item>
+    </array>
+
+</resources>

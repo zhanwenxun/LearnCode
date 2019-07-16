@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/froum_recommend"
+        android:icon="@drawable/forum1"
+        android:title="@string/froum_recommend" />
+    <item
+        android:id="@+id/forum_algorithm"
+        android:icon="@drawable/forum1"
+        android:title="@string/forum_algorithm" />
+    <item
+        android:id="@+id/forum_data_structure"
+        android:icon="@drawable/forum1"
+        android:title="@string/forum_data_structure" />
+    <item
+        android:id="@+id/forum_C"
+        android:icon="@drawable/forum1"
+        android:title="@string/forum_C" />
+
+</menu>
