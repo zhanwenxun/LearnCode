@@ -1,16 +1,26 @@
-## **Mini Program**
+# LearnCode Project
 
-Using Wechat applet to promote Wechat applet contest
+Android Application for Program language learning
 
-Mini program is an application that can be used without downloading. It is also an innovation with very high threshold. After nearly two years of development, a new small program development environment and developer ecology have been constructed.
+This work is mainly a code learning tool Application for beginners of C/C++ language.
 
-![image](https://github.com/zhanwenxun/Mini-Program/blob/master/run-image/image1.png)
+The work is mainly divided into three modules:
 
-![image](https://github.com/zhanwenxun/Mini-Program/blob/master/run-image/image2.png)
+​	1）Coding Module: Mobile Terminal Function for Code Compiling and Running
 
-![image](https://github.com/zhanwenxun/Mini-Program/blob/master/run-image/image3.png)
+​	2）Community Module: A Platform for C/C++ Language Programming Learning and Communication
 
-![image](https://github.com/zhanwenxun/Mini-Program/blob/master/run-image/image4.png)
+​	3) Personal Module: Managing Personal Information, Code Files and Related Settings
 
-![image](https://github.com/zhanwenxun/Mini-Program/blob/master/run-image/image5.png)
+
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image1.png)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image2.png)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image3.png)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image4.png)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image5.png)
 
