@@ -1,15 +1,26 @@
-# LearnCode
+# LearnCode Project
 
 Android Application for Program language learning
 
-该作品主要是面向C/C++语言初学者的代码学习工具APP。
+This work is mainly a code learning tool Application for beginners of C/C++ language.
 
-作品主要分为以下三个模块： 
+The work is mainly divided into three modules:
 
-​	1）编码模块：提供代码编译和运行的移动终端功能 
+​	1）Coding Module: Mobile Terminal Function for Code Compiling and Running
 
-​	2）社区模块：提供C/C++语言编程学习交流的平台 
+​	2）Community Module: A Platform for C/C++ Language Programming Learning and Communication
 
-​	3) 个人模块：管理个人信息、代码文件以及相关设置
+​	3) Personal Module: Managing Personal Information, Code Files and Related Settings
+
+
 
 ![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image1.png?raw=true)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image2.png?raw=true)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image3.png?raw=true)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image4.png?raw=true)
+
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image5.png?raw=true)
+
