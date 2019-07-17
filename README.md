@@ -12,3 +12,4 @@ Android Application for Program language learning
 
 ​	3) 个人模块：管理个人信息、代码文件以及相关设置
 
+![image](https://github.com/zhanwenxun/LearnCode/blob/master/run-image/image1.png?raw=true)
